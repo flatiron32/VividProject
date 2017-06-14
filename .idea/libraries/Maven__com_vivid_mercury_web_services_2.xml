@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.vivid:mercury-web-services:2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/vivid/mercury-web-services/2/mercury-web-services-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/vivid/mercury-web-services/2/mercury-web-services-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/vivid/mercury-web-services/2/mercury-web-services-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.vividseats:vivid-core-msgq:1.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/vividseats/vivid-core-msgq/1.1-SNAPSHOT/vivid-core-msgq-1.1-20170531.201643-35.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/vividseats/vivid-core-msgq/1.1-SNAPSHOT/vivid-core-msgq-1.1-20170531.201643-35-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/vividseats/vivid-core-msgq/1.1-SNAPSHOT/vivid-core-msgq-1.1-20170531.201643-35-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

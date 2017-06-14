@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.vividseats:vivid-microservice-core:1.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/vividseats/vivid-microservice-core/1.1-SNAPSHOT/vivid-microservice-core-1.1-20170511.185937-17.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/vividseats/vivid-microservice-core/1.1-SNAPSHOT/vivid-microservice-core-1.1-20170511.185937-17-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/vividseats/vivid-microservice-core/1.1-SNAPSHOT/vivid-microservice-core-1.1-20170511.185937-17-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

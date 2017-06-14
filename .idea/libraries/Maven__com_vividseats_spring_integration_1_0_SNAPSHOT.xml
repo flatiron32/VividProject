@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.vividseats:spring-integration:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/vividseats/spring-integration/1.0-SNAPSHOT/spring-integration-1.0-20160520.210929-23.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/vividseats/spring-integration/1.0-SNAPSHOT/spring-integration-1.0-20160520.210929-23-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/vividseats/spring-integration/1.0-SNAPSHOT/spring-integration-1.0-20160520.210929-23-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: eqabx:eqabx:1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/eqabx/eqabx/1/eqabx-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/eqabx/eqabx/1/eqabx-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/eqabx/eqabx/1/eqabx-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

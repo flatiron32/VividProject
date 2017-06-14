@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.vivid:incontact-web-services:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/vivid/incontact-web-services/1.0-SNAPSHOT/incontact-web-services-1.0-20140530.195239-5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/vivid/incontact-web-services/1.0-SNAPSHOT/incontact-web-services-1.0-20140530.195239-5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/vivid/incontact-web-services/1.0-SNAPSHOT/incontact-web-services-1.0-20140530.195239-5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

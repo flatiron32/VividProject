@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../broker-portal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../broker-portal-regression" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../test-core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../vivid-commons" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../vivid-coreapi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../vivid-sales" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../vivid-sales-regression" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../vivid-web" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../vivid-web-regression" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../vivid-web-services" vcs="Git" />
+  </component>
+</project>

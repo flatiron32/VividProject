@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.vividseats:vivid-commons:1.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/vividseats/vivid-commons/1.2-SNAPSHOT/vivid-commons-1.2-20170608.212025-14.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/vividseats/vivid-commons/1.2-SNAPSHOT/vivid-commons-1.2-20170608.212025-14-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/vividseats/vivid-commons/1.2-SNAPSHOT/vivid-commons-1.2-20170608.212025-14-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AjcSettings">
+    <option name="ajcPath" value="$MAVEN_REPOSITORY$/org/aspectj/aspectjtools/1.7.2/aspectjtools-1.7.2.jar" />
+    <option name="cmdLineParams" value="-Xlint:ignore" />
+    <option name="delegateToJavac" value="true" />
+  </component>
+  <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" value="ajc" />
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="broker-portal" />
+        <module name="broker-portal-regression" />
+        <module name="test-core" />
+        <module name="vivid-commons" />
+        <module name="vivid-coreapi" />
+        <module name="vivid-sales" />
+        <module name="vivid-sales-regression" />
+        <module name="vivid-web" />
+        <module name="vivid-web-regression" />
+        <module name="vivid-web-services" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="broker-portal" target="1.7" />
+      <module name="broker-portal-regression" target="1.7" />
+      <module name="issuer-lib_main" target="1.7" />
+      <module name="issuer-lib_test" target="1.7" />
+      <module name="test-core" target="1.7" />
+      <module name="ticket-issuer-api-client_main" target="1.8" />
+      <module name="ticket-issuer-api-client_test" target="1.8" />
+      <module name="vivid-commons" target="1.7" />
+      <module name="vivid-coreapi" target="1.7" />
+      <module name="vivid-sales" target="1.7" />
+      <module name="vivid-sales-regression" target="1.7" />
+      <module name="vivid-web" target="1.7" />
+      <module name="vivid-web-regression" target="1.7" />
+      <module name="vivid-web-services" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

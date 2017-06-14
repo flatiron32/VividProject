@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../broker-portal/broker-portal.iml" filepath="$PROJECT_DIR$/../broker-portal/broker-portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../broker-portal-regression/broker-portal-regression.iml" filepath="$PROJECT_DIR$/../broker-portal-regression/broker-portal-regression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test-core/test-core.iml" filepath="$PROJECT_DIR$/../test-core/test-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../vivid-commons/vivid-commons.iml" filepath="$PROJECT_DIR$/../vivid-commons/vivid-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../vivid-coreapi/vivid-coreapi.iml" filepath="$PROJECT_DIR$/../vivid-coreapi/vivid-coreapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../vivid-sales/vivid-sales.iml" filepath="$PROJECT_DIR$/../vivid-sales/vivid-sales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../vivid-sales-regression/vivid-sales-regression.iml" filepath="$PROJECT_DIR$/../vivid-sales-regression/vivid-sales-regression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../vivid-web/vivid-web.iml" filepath="$PROJECT_DIR$/../vivid-web/vivid-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../vivid-web-regression/vivid-web-regression.iml" filepath="$PROJECT_DIR$/../vivid-web-regression/vivid-web-regression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../vivid-web-services/vivid-web-services.iml" filepath="$PROJECT_DIR$/../vivid-web-services/vivid-web-services.iml" />
+    </modules>
+  </component>
+</project>

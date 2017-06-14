@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="vivid-web:war">
+    <output-path>$PROJECT_DIR$/../vivid-web/target</output-path>
+    <root id="archive" name="vivid-web-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="vivid-web:war exploded" />
+    </root>
+  </artifact>
+</component>

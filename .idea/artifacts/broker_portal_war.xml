@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="broker-portal:war">
+    <output-path>$PROJECT_DIR$/../broker-portal/target</output-path>
+    <root id="archive" name="broker-portal-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="broker-portal:war exploded" />
+    </root>
+  </artifact>
+</component>
