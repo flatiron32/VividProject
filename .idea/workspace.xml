@@ -227,11 +227,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SellPrimaryTicketAction.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SellPrimaryTicketAction.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../vivid-web/src/main/java/com/vivid/publik/controller/action/fan/SellPrimaryTicketAction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="102" column="0" lean-forward="false" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
+            <state relative-caret-position="297">
+              <caret line="101" column="30" lean-forward="false" selection-start-line="101" selection-start-column="30" selection-end-line="101" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -303,7 +303,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AudienceView.class" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AudienceView.class" pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/com/vividseats/ticket-issuer-api-client/1.3-SNAPSHOT/ticket-issuer-api-client-1.3-20170630.223228-7.jar!/com/vividseats/issuer/impl/AudienceView.class">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="534">
@@ -313,11 +313,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ApplicationContextAware.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.3.RELEASE/spring-context-4.2.3.RELEASE.jar!/org/springframework/context/ApplicationContextAware.class">
+      <file leaf-file-name="IssuerService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../vivid-coreapi/src/main/java/com/vivid/estore/service/IssuerService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+            <state relative-caret-position="304">
+              <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -376,7 +376,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../broker-portal" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../vivid-web" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$/../vivid-coreapi" value="oneSonarPerDay" />
@@ -2311,7 +2311,7 @@
       <workItem from="1497451415076" duration="2000" />
       <workItem from="1498235750663" duration="16768000" />
       <workItem from="1498837803089" duration="2344000" />
-      <workItem from="1499100674748" duration="10578000" />
+      <workItem from="1499100674748" duration="11009000" />
     </task>
     <task id="LOCAL-00001" summary="Enable Jacoco enforcing 100% branch coverage.">
       <created>1492366232944</created>
@@ -2356,16 +2356,17 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="351370000" />
+    <option name="totallyTimeSpent" value="351801000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18386817" sideWeight="0.51197916" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296131" sideWeight="0.49841145" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21979167" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21979167" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962668" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -2465,13 +2466,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../vivid-web/src/main/java/com/vivid/publik/controller/action/account/OrderLookupAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="30" column="41" lean-forward="false" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../vivid-web/src/test/java/com/vivid/publik/controller/action/account/SpecialDeliveryActionTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="359">
@@ -2866,18 +2860,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../vivid-web/src/main/java/com/vivid/publik/controller/action/fan/SellPrimaryTicketAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="102" column="0" lean-forward="false" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/vividseats/ticket-issuer-api-client/1.3-SNAPSHOT/ticket-issuer-api-client-1.3-20170630.223228-7.jar!/com/vividseats/issuer/impl/AudienceView.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="534">
           <caret line="625" column="0" lean-forward="false" selection-start-line="625" selection-start-column="0" selection-end-line="625" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../vivid-coreapi/src/main/java/com/vivid/estore/service/IssuerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../vivid-web/src/main/java/com/vivid/publik/controller/action/fan/SellPrimaryTicketAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="101" column="30" lean-forward="false" selection-start-line="101" selection-start-column="30" selection-end-line="101" selection-end-column="30" />
           <folding />
         </state>
       </provider>
