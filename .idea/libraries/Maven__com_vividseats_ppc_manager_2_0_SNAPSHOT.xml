@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: com.vividseats:ppc-manager:2.0-SNAPSHOT">
     <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/com/vividseats/ppc-manager/2.0-SNAPSHOT/ppc-manager-2.0-20170530.165726-22.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/vividseats/ppc-manager/2.0-SNAPSHOT/ppc-manager-2.0-20170626.173242-23.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$MAVEN_REPOSITORY$/com/vividseats/ppc-manager/2.0-SNAPSHOT/ppc-manager-2.0-20170530.165726-22-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/vividseats/ppc-manager/2.0-SNAPSHOT/ppc-manager-2.0-20170626.173242-23-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$MAVEN_REPOSITORY$/com/vividseats/ppc-manager/2.0-SNAPSHOT/ppc-manager-2.0-20170530.165726-22-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/vividseats/ppc-manager/2.0-SNAPSHOT/ppc-manager-2.0-20170626.173242-23-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

@@ -51,7 +51,9 @@
           <element id="library" level="project" name="Maven: ups:label-recovery:1.0" />
           <element id="library" level="project" name="Maven: ups:shipping:1.0" />
           <element id="library" level="project" name="Maven: ups:address-verification:1.0" />
-          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/vividseats/vivid-commons/1.2-SNAPSHOT/vivid-commons-1.2-20170608.212025-14.jar" output-file-name="vivid-commons-1.2-SNAPSHOT.jar" />
+          <element id="archive" name="vivid-commons-1.2-SNAPSHOT.jar">
+            <element id="module-output" name="vivid-commons" />
+          </element>
           <element id="library" level="project" name="Maven: com.bettercloud:vault-java-driver:0.5.0" />
           <element id="library" level="project" name="Maven: javax.mail:mail:1.4.5" />
           <element id="library" level="project" name="Maven: javax.activation:activation:1.1" />
@@ -71,7 +73,7 @@
           <element id="library" level="project" name="Maven: com.amazonaws:aws-java-sdk-ec2:1.11.18" />
           <element id="library" level="project" name="Maven: com.vividseats:vivid-responsys-rest-client:1.0" />
           <element id="file-copy" path="$MAVEN_REPOSITORY$/com/vividseats/vivid-msgq-sqs/1.1-SNAPSHOT/vivid-msgq-sqs-1.1-20170505.140340-34.jar" output-file-name="vivid-msgq-sqs-1.1-SNAPSHOT.jar" />
-          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/vividseats/vivid-core-msgq/1.1-SNAPSHOT/vivid-core-msgq-1.1-20170531.201643-35.jar" output-file-name="vivid-core-msgq-1.1-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/vividseats/vivid-core-msgq/1.1-SNAPSHOT/vivid-core-msgq-1.1-20170618.020125-36.jar" output-file-name="vivid-core-msgq-1.1-SNAPSHOT.jar" />
           <element id="file-copy" path="$MAVEN_REPOSITORY$/com/vividseats/vivid-microservice-core/1.1-SNAPSHOT/vivid-microservice-core-1.1-20170511.185937-17.jar" output-file-name="vivid-microservice-core-1.1-SNAPSHOT.jar" />
           <element id="file-copy" path="$MAVEN_REPOSITORY$/com/vividseats/vivid-metrics/1.2-SNAPSHOT/vivid-metrics-1.2-20170511.185921-1.jar" output-file-name="vivid-metrics-1.2-SNAPSHOT.jar" />
           <element id="library" level="project" name="Maven: org.apache.commons:commons-collections4:4.0" />
@@ -150,6 +152,9 @@
           <element id="library" level="project" name="Maven: com.beust:jcommander:1.48" />
           <element id="library" level="project" name="Maven: org.glassfish.jersey.core:jersey-client:2.22.2" />
           <element id="library" level="project" name="Maven: com.google.code.findbugs:jsr305:3.0.0" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/vividseats/ticket-issuer-api-client/1.3-SNAPSHOT/ticket-issuer-api-client-1.3-20170628.155348-6.jar" output-file-name="ticket-issuer-api-client-1.3-SNAPSHOT.jar" />
+          <element id="library" level="project" name="Maven: com.squareup.okhttp3:okhttp:3.7.0" />
+          <element id="library" level="project" name="Maven: com.squareup.okio:okio:1.12.0" />
           <element id="file-copy" path="$MAVEN_REPOSITORY$/com/vividseats/spring-integration/1.0-SNAPSHOT/spring-integration-1.0-20160520.210929-23.jar" output-file-name="spring-integration-1.0-SNAPSHOT.jar" />
           <element id="library" level="project" name="Maven: javax.servlet:jstl:1.1.2" />
           <element id="library" level="project" name="Maven: commons-fileupload:commons-fileupload:1.2.1" />
